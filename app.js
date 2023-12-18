@@ -28,4 +28,4 @@ let user = {
 };
 
 let users = user;
-alert(users == userc);
+alert(users == user);
