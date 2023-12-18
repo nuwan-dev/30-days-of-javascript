@@ -26,3 +26,6 @@ let user = {
   role: "Developer",
   salary: "25k",
 };
+
+let users = user;
+alert(users == userc);
