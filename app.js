@@ -16,7 +16,8 @@ console.log(name + " is " + age + " years old, is he married? " + married);
 name[0] = "B";
 console.log(name); */
 
-let numbers = [0, 1, 2];
-numbers[0] = 10;
+// let numbers = [0, 1, 2];
+// numbers[0] = 10;
 
-console.log(numbers[0]);
+// console.log(numbers[0]);
+
