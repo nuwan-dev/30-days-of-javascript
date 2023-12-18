@@ -21,11 +21,11 @@ console.log(name); */
 
 // console.log(numbers[0]);
 
-let user = {
-  name: "Nimal",
-  role: "Developer",
-  salary: "25k",
-};
+// let user = {
+//   name: "Nimal",
+//   role: "Developer",
+//   salary: "25k",
+// };
 
-let users = user;
-alert(users == user);
+// let users = user;
+// alert(users == user);
