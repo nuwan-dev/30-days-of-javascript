@@ -21,3 +21,8 @@ console.log(name); */
 
 // console.log(numbers[0]);
 
+let user = {
+  name: "Nimal",
+  role: "Developer",
+  salary: "25k",
+};
