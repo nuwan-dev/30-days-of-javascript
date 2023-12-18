@@ -12,3 +12,6 @@ let graduated; //undefined
 let hasChilden = null; //object type
 
 console.log(name + " is " + age + " years old, is he married? " + married);
+
+name[0] = "B";
+console.log(name);
