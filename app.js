@@ -30,6 +30,18 @@ console.log(name); */
 // let users = user;
 // alert(users == user);
 
-let num = [1, 2, 3];
-num[0] = 0;
-alert(num[0]);
+// let num = [1, 2, 3];
+// num[0] = 0;
+// alert(num[0]);
+
+// objects
+
+let user = {
+  name: "nimal",
+  occupation: "masion",
+  salary: 3000,
+};
+
+user.name = "kamal";
+
+alert(user.name);
