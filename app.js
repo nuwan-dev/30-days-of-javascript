@@ -36,12 +36,12 @@ console.log(name); */
 
 // objects
 
-let user = {
-  name: "nimal",
-  occupation: "masion",
-  salary: 3000,
-};
+// let user = {
+//   name: "nimal",
+//   occupation: "masion",
+//   salary: 3000,
+// };
 
-user.name = "kamal";
+// user.name = "kamal";
 
-alert(user.name);
+// alert(user.name);
