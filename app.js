@@ -32,4 +32,4 @@ console.log(name); */
 
 let num = [1, 2, 3];
 num[0] = 0;
-alert(num);
+alert(num[0]);
