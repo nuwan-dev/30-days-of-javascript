@@ -29,3 +29,7 @@ console.log(name); */
 
 // let users = user;
 // alert(users == user);
+
+let num = [1, 2, 3];
+num[0] = 0;
+alert(num);
