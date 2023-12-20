@@ -7,4 +7,4 @@ let firstName = "Nimal";
 let lastName = "Bass";
 let live = "Warawala";
 
-console.log(firstName + lastName + live);
+console.log(firstName + " " + lastName + " " + live);
